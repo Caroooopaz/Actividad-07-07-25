@@ -10,12 +10,8 @@ En el mundo del desarrollo web, se suelen dividir las responsabilidades en disti
 # Diagrama de Comunicación
 Este diagrama muestra de forma simplificada cómo interactúan estas tres partes cuando usas una aplicación web:
 
-graph LR
-    A[Usuario/Navegador - Frontend] -->|1. Envía solicitud (ej. cargar página, iniciar sesión)| B(Servidor - Backend)
-    B -->|2. Procesa solicitud, necesita datos| C(Base de Datos)
-    C -->|3. Envía datos solicitados| B
-    B -->|4. Envía respuesta con datos al Frontend| A
-    A -->|5. Muestra datos al usuario| A
+![image](https://github.com/user-attachments/assets/957857e9-3a84-4960-9d04-3f7d50ff48e2)
+
 
 # Explicación del Flujo:
 
