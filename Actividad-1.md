@@ -1,4 +1,4 @@
-#Páginas Sitios Web Informativos
+# Páginas Sitios Web Informativos
 
 1. BBC News: 
 
@@ -13,7 +13,7 @@
 - Ejemplo de sitio web informativo, similar a Wikipedia, pero con un enfoque más tradicional, ya que ofrece una vasta colección de artículos enciclopédicos sobre una amplia gama de tema, su informacion es detallada y verificada. Su función es la de consultar y acceder a conocimientos.
 
 
-#Aplicaciones Web
+# Aplicaciones Web
 
 1. Figma:
 
@@ -25,7 +25,7 @@
 
 3. Canva:  Los usuarios pueden crear presentaciones, pósters, publicaciones para redes sociales y mucho más utilizando plantillas y herramientas de arrastrar y soltar. Muy similar a Figma, solo que se usan para diferentes propósitos.
 
-#Reflexión
+# Reflexión
 
 Una aplicación web se vuelve interactiva cuando permite al usuario no solo consumir información, sino también manipularla, generarla y obtener una respuesta dinámica a sus acciones. La interactividad se manifiesta a través de elementos como:
 Entrada de usuario: Formularios, botones, controles deslizantes, campos de texto editables que permiten al usuario introducir datos.
